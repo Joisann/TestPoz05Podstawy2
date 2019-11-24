@@ -1,3 +1,5 @@
+import Objektowosc.Car;
+
 public class Object2 {
     public static void main(String[] args) {
         Car Opel = new Car("Opel", "Astra", 2006);
