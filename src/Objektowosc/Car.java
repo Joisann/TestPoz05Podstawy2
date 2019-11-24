@@ -1,10 +1,13 @@
+package Objektowosc;
+
 public class Car {
     private String marka;
     private String model;
     private Integer rokProdukcji;
     private Integer age;
     private Integer predkosc;
-    Car(String marka, String model, Integer rokProdukcji) {
+
+    public Car(String marka, String model, Integer rokProdukcji) {
         this.marka = marka;
         this.model = model;
         this.rokProdukcji = rokProdukcji;
