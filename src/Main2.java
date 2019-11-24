@@ -19,6 +19,7 @@ public class Main2 {
         owoce.put("truskawka", 4.80);
         owoce.put("pomarancza", 6.29);
         owoce.put("jagoda", 15.89);
+
         List<String> nazwyOwocow = new ArrayList<>();
         nazwyOwocow.add("banan");
         nazwyOwocow.add("truskawka");
